@@ -11,6 +11,13 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "B.E.D", artist: "Jaquees", genre:"R&B"},
+    { title: "Yebo Lapho(Gogo)", artist: "Felo Le Tee", genre: "Amapiano" },
+    { title: "Zulu", artist: "Pushkin RSA ft AMAQHAWE", genre: "Amapiano" },
+    { title: "Like we Wrote", artist: "Lithe", genre: "Lo-Fi" },
+    { title: "Until Sunrise", artist: "Snow ft Cryy", genre: "Lo-fi"},
+    { title: "twerka 4.0", artist: "Bukzin keyz", genre: "Amapiano"},
+    { title: "DeathBed(Coffee for your head)", artist: "Powfu", genre:"Lo-Fi"},
     // Feel free to add even more songs
 ];
 
