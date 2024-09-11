@@ -15,7 +15,7 @@ const songs = [
     { title: "Yebo Lapho(Gogo)", artist: "Felo Le Tee", genre: "Amapiano" },
     { title: "Zulu", artist: "Pushkin RSA ft AMAQHAWE", genre: "Amapiano" },
     { title: "Like we Wrote", artist: "Lithe", genre: "Lo-Fi" },
-    { title: "Until Sunrise", artist: "Snow ft Cryy", genre: "Lo-fi"},
+    { title: "Until Sunrise", artist: "Snow ft Cryy", genre: "Lo-Fi"},
     { title: "twerka 4.0", artist: "Bukzin keyz", genre: "Amapiano"},
     { title: "DeathBed(Coffee for your head)", artist: "Powfu", genre:"Lo-Fi"},
     // Feel free to add even more songs
@@ -26,6 +26,9 @@ const songs = [
 const guardians = {
     "Star-Lord": "Rock",
     "Gamora": "Pop",
+    "Drax": "R&B",
+    "Rocket": "Amapiano",
+    "Groot": "Lo-Fi",
     // Add preferences for Drax, Rocket, and Groot
 };
 
